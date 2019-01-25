@@ -1,0 +1,8 @@
+[submodule ".vscode/laravel-vscode-workspace-snippets"]
+	path = .vscode/laravel-vscode-workspace-snippets
+	url = https://github.com/codeitlikemiley/laravel-vscode-workspace-snippets
+	branch = master
+[submodule ".vscode/snippets"]
+	path = .vscode/snippets
+	url = https://github.com/codeitlikemiley/laravel-vscode-workspace-snippets
+	branch = master
